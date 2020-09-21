@@ -1,0 +1,19 @@
+|RECORD=BOM|VERSION=2|FILENAME=C:\Users\ztdey\Desktop\树莓派UPS\ADPrj\RasPiUPS\RasPiUPS.$$$|KIND=ALTIUM_DESIGNER_LIVEBOM|DATE=21.09.2020|TIME=09:12:42|CURRENCY=|PRODUCTIONQUANTITY=1|PERUNITTARGETPRICE=0|PERUNITACTUALPRICE=0
+|RECORD=GeneralOptions|OPENEXPORTED=False|ADDTOPROJECT=False|FORCEFIT=False|NOTFITTED=False|TEMPLATEFILENAME=|BATCHMODE=0|SUPPLIERPRODQTY=0|SUPPLIERAUTOQTY=False|SUPPLIERUSECACHEDPRICING=False|SUPPLIERCURRENCY=|SOLUTIONSPERITEM=1|SUPPLIERSPERSOLUTION=1|DISPLAYTOTALROW=False|DISPLAYSUBTOTALSFORGROUPS=False|INCLUDEPCBPARAMETERS=False|INCLUDEDBPARAMETERS=False|INCLUDEVAULTPARAMETERS=False|INCLUDECLOUDPARAMETERS=False|INCLUDEDOCUMENTPARAMETERS=False|FILTEROUTRISKYSOLUTIONS=True|DESIGNATORGROUPING=No
+|RECORD=SortOrderOptions|SORTORDER=
+|RECORD=GroupOrderOptions|GROUPORDER=
+|RECORD=VisibleOrderOptions|VISIBLEORDER=Line #=56!Comment=54!Description=84!Designator=82!Quantity=69!Manufacturer 1=104!Manufacturer Part Number 1=142!Manufacturer Lifecycle 1=159!Supplier 1=77!Supplier Part Number 1=115!Supplier Unit Price 1=93!Supplier Subtotal 1=124
+|RECORD=VisibleOrderOptions2|BASEVIEW=Line #=56!Comment=54!Description=84!Designator=82!Quantity=69!Manufacturer 1=104!Manufacturer Part Number 1=142!Manufacturer Lifecycle 1=159!Supplier 1=77!Supplier Part Number 1=115!Supplier Unit Price 1=93!Supplier Subtotal 1=124|FLATVIEW=Line #=-1!Comment=-1!Description=-1!Designator=-1!Manufacturer 1=104!Manufacturer Part Number 1=142!Manufacturer Lifecycle 1=-1!Supplier 1=77!Supplier Part Number 1=115!Supplier Unit Price 1=93!Supplier Subtotal 1=124|CONSOLIDATEDVIEW=Line #=-1!Comment=-1!Description=-1!Designator=-1!Manufacturer 1=104!Manufacturer Part Number 1=142!Manufacturer Lifecycle 1=-1!Supplier 1=77!Supplier Part Number 1=115!Supplier Unit Price 1=93!Supplier Subtotal 1=124
+|RECORD=CustomColumns|CUSTOMCOLUMNS=
+|RECORD=ColumnsAliases|COLUMNSALIASES=Comment=Name!Manufacturer Part Number 1=Manufacturer PartNo 1!Supplier Part Number 1=Supplier PartNo 1!Supplier Unit Price 1=Actual Price 1
+|RECORD=FilterOptions|FILTER=
+|RECORD=CheckGroupCompParamsOptions|CHECKGROUPCOMPPARAMS=Comment=0,Description=0,Value=0,Footprint=1
+|RECORD=ManufacturerLinkOptions|MANUFACTURERLINKPARAMETERS=
+|RECORD=FavoriteSuppliers|SUPPLIERS=|USESUPPLIERORDER=False
+|RECORD=CheckOptions|CHECKLEVELS=
+|RECORD=LineNumberingOptions|STARTVALUE=|INCREMENT=
+|RECORD=Catalog|DBLINKFILEPATH=
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Fszhang.IntLib\USB|DESIGNITEMID=USB|ITEMSOURCE=Fszhang.IntLib|STATUS=Unknown|DESCRIPTION=USB接口|USERCOMMENTS=USB|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=USB,USB接口|COMPONENTPARAMETERS=Comment=USB,"Component Kind=Standard",Description=USB接口,Footprint=USB_A1,"Ibis Model=","Library Name=Fszhang.IntLib","Library Reference=USB",PCB3D=,"Pin Info=","Signal Integrity=",Simulation=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Miscellaneous Devices LC.IntLib\AO3401A P道沟 X13A15 SOT-23|DESIGNITEMID=AO3401A P道沟 X13A15 SOT-23|ITEMSOURCE=Miscellaneous Devices LC.IntLib|STATUS=Unknown|DESCRIPTION=MOS(场效应管)|USERCOMMENTS=AO3401A P道沟 X13A15 SOT-23|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH="AO3401A P道沟 X13A15 SOT-23",MOS(场效应管)|COMPONENTPARAMETERS="Comment=AO3401A P道沟 X13A15 SOT-23","Component Kind=Standard",ComponentLink1Description=供应商链接,ComponentLink1URL=http://www.szlcsc.com/product/details_15801.html,Description=MOS(场效应管),Footprint=SOT-23-3L,"Ibis Model=","Library Name=Miscellaneous Devices LC.IntLib","Library Reference=AO3401A P道沟 X13A15 SOT-23",Notepad=,Package=SOT-23,PCB3D=,"Pin Info=","Signal Integrity=",Simulation=,Supplier=LC,SuppliersPartNumber=C15127|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
